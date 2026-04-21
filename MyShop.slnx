@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="myshop.DataAccess/myshop.DataAccess.csproj" Id="f406c320-a8ab-4d96-a99f-b40ba1acbd41" />
+  <Project Path="myshop.Entities/myshop.Entities.csproj" Id="1d44994b-0f69-4804-81ec-f8682973f2b9" />
+  <Project Path="myshop.Utilities/myshop.Utilities.csproj" Id="7287a785-89b3-4cde-8056-a493e2e94f47" />
+  <Project Path="MyShop.Web/MyShop.Web.csproj" />
+</Solution>
